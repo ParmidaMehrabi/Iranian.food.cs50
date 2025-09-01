@@ -1,2 +1,2 @@
-# Iranian.cukture.cs50
+# Iranian.culture.cs50
 “A CS50 project: website about Iranian cuisine, featuring photos of traditional dishes with descriptions.”
